@@ -1,0 +1,67 @@
+# Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Rohit Lakhanpal
+
+**Applies to:** the documentation in `docs/`, `README.md`, and the generated
+workbooks in `assets/`.
+
+Code in `workbook/` is licensed separately under the MIT License — see [LICENSE](LICENSE).
+
+---
+
+## You are free to
+
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose,
+  including commercially
+
+The licensor cannot revoke these freedoms as long as you follow the licence terms.
+
+## Under the following terms
+
+- **Attribution** — You must give appropriate credit, provide a link to the
+  licence, and indicate if changes were made. You may do so in any reasonable
+  manner, but not in any way that suggests the licensor endorses you or your use.
+
+- **No additional restrictions** — You may not apply legal terms or
+  technological measures that legally restrict others from doing anything the
+  licence permits.
+
+## Notices
+
+You do not have to comply with the licence for elements of the material in the
+public domain or where your use is permitted by an applicable exception or
+limitation.
+
+No warranties are given. The licence may not give you all of the permissions
+necessary for your intended use. For example, other rights such as publicity,
+privacy, or moral rights may limit how you use the material.
+
+---
+
+## Full licence text
+
+The complete legal text is at:
+
+**https://creativecommons.org/licenses/by/4.0/legalcode**
+
+A human-readable summary is at:
+
+**https://creativecommons.org/licenses/by/4.0/**
+
+---
+
+## Third-party material
+
+This work quotes and paraphrases the **Microsoft Cloud Adoption Framework for
+AI agents** and **Microsoft Responsible AI** guidance, which remain the property
+of Microsoft Corporation and are subject to their own terms. Quotations are used
+for identification and commentary, and every source is linked at the point of use
+and listed in [`docs/appendix-d-sources.md`](docs/appendix-d-sources.md).
+
+That appendix also sets out explicitly which parts of this framework are
+Microsoft's published guidance and which are this work's own packaging.
+
+Microsoft, Azure, Microsoft 365, Copilot, Fabric and Foundry are trademarks of
+the Microsoft group of companies. This is an independent work and is not
+endorsed by or affiliated with Microsoft Corporation.

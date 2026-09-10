@@ -1,0 +1,8 @@
+# Keep Office and PDF binaries out of LF normalisation
+*.pptx binary
+*.xlsx binary
+*.pdf   binary
+*.png   binary
+
+# Auto detect text files and perform LF normalization
+* text=auto

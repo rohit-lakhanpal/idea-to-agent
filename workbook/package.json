@@ -1,0 +1,15 @@
+{
+  "name": "idea-to-agent-workbook",
+  "version": "5.0.0",
+  "description": "Generates the AI Use Case Decision Workbook that implements the idea-to-agent framework",
+  "private": true,
+  "scripts": {
+    "build": "node build-xlsx-v5.js \"../assets/AI Use Case Decision Workbook - v5.xlsx\"",
+    "build:sample": "node build-xlsx-v5.js \"../assets/SAMPLE - AI Use Case Decision Workbook - v5.xlsx\" ./sample-data.js",
+    "build:all": "npm run build && npm run build:sample"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}
